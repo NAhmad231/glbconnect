@@ -1,5 +1,5 @@
 # QNA-Threads Chat Application
-CHECK OUT - [GLB.Connect](https://glb-connect.vercel.app/) 🎉
+CHECK OUT - [GLB.Connect](https://glb-connect-frontend.onrender.com/) 🎉
 
 A real-time chat application with anonymous posting capabilities, built with React, Node.js, Express, and PostgreSQL.
 
